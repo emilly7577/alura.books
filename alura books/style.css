@@ -1,1 +1,9 @@
-body{background-color: darkcyan;}
+@import url("styles/header.css");
+
+
+body{background-color: darkcyan;
+--branco:#FFFFFF;}
+
+body {
+    background-color: ;
+}
